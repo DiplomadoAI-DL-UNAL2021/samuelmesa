@@ -2,7 +2,6 @@
 ### Diplomado en Inteligencia Artificial y Aprendizaje Profundo 2021  
 
 **Contacto**: Samuel Mesa
-
 **Fecha actualización**: 5 de abril de 2021
 
 Sitio Personal del diplomado de la Universidad Nacional de Colombia sobre Inteligencia Artificial y Aprendizaje Profundo.
