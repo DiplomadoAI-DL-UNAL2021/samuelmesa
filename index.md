@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Página de Samuel Mesa
+### Diplomado en Inteligencia Artificial y Aprendizaje Profundo 2021  
 
-You can use the [editor on GitHub](https://github.com/DiplomadoAI-DL-UNAL2021/samuelmesa/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+***Contacto**: Samuel Mesa
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Fecha actualización**: 5 de abril de 2021
 
-### Markdown
+Sitio Personal del diplomado de la Universidad Nacional de Colombia sobre Inteligencia Artificial y Aprendizaje Profundo.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Desarrollo de talleres
 
-```markdown
-Syntax highlighted code block
+Lista de desarrollo de talleres:
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DiplomadoAI-DL-UNAL2021/samuelmesa/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+1. **Taller 1**: Entendiendo Jupyter Lab, Github, Python y Regresión Lineal ([Versión HTML](https://htmlpreview.github.io/?https://github.com/DiplomadoAI-DL-UNAL2021/samuelmesa/blob/main/taller_regresion_lineal/taller_regresion_lineal.html)) ([Notebook](https://nbviewer.jupyter.org/github/DiplomadoAI-DL-UNAL2021/samuelmesa/blob/main/taller_regresion_lineal/taller_regresion_lineal.ipynb))
+2. **Taller 2**: Pandas ([Versión HTML](https://htmlpreview.github.io/?https://github.com/DiplomadoAI-DL-UNAL2021/samuelmesa/blob/main/taller_regresion_lineal/taller_regresion_lineal.html)) ([Notebook](https://nbviewer.jupyter.org/github/DiplomadoAI-DL-UNAL2021/samuelmesa/blob/main/taller_regresion_lineal/taller_regresion_lineal.ipynb))
