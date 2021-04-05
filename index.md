@@ -1,7 +1,7 @@
 ## Página de Samuel Mesa
 ### Diplomado en Inteligencia Artificial y Aprendizaje Profundo 2021  
 
-***Contacto**: Samuel Mesa
+**Contacto**: Samuel Mesa
 
 **Fecha actualización**: 5 de abril de 2021
 
