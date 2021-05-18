@@ -173,7 +173,7 @@ model_seq2.summary()
 # %%
 history = model_seq2.fit(normed_train_features, training_labels, batch_size=32, epochs=150,validation_split = 0.2)
 
-#%% [markdown]
+#%% [markdown]P
 # ### Predicciones
 #%%
 # Predicting the Test set results
